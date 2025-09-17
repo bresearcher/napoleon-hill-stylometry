@@ -1,4 +1,4 @@
-orensic Stylometry of the Napoleon Hill Corpus
+Forensic Stylometry of the Napoleon Hill Corpus
 This repository contains the data and code used for the computational analysis referenced in the book "THE DEVIL'S MESSENGER: Cataplexis, Cognitive Warfare, and the Inoculation of Truth."
 
 The analysis was conducted to empirically test the "Paradigm Break" hypothesis concerning Napoleon Hill's 1938 manuscript, Outwitting the Devil. The script analyze.py processes the corpus of text files to generate the stylometric and sentiment data discussed in Appendix B of the book.
